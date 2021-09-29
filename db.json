@@ -137,11 +137,9 @@
       "city": "makati",
       "barangay": [
         {
-          "id": 26,
           "barangayName": "poblacion",
           "schools": [
             {
-              "schoolId": 202114,
               "schoolName": "makati elementary school",
               "schoolAddress": "279 General Luna Street, Makati, 1210 Metro Manila",
               "vaccineType": "aztrazenica",
@@ -157,11 +155,9 @@
       "city": "muntinlupa",
       "barangay": [
         {
-          "id": 5,
           "barangayName": "alabang",
           "schools": [
             {
-              "schoolId": 202114,
               "schoolName": "alabang elementary school",
               "schoolAddress": "Mendiola, Alabang, Muntinlupa, 1780 Metro Manila",
               "vaccineType": "moderna",
