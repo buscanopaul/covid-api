@@ -110,19 +110,6 @@
               "created_at": "2021-6-14 21:11:16"
             }
           ]
-        },
-        {
-          "id": 18,
-          "barangayName": "bagumbong",
-          "schools": [
-            {
-              "schoolId": 202112,
-              "schoolName": "bagumbong high school",
-              "schoolAddress": "blk 9 lot 25 corinthian street northcrest village bagumbong",
-              "vaccineType": "astrazenica",
-              "created_at": "2021-6-14 21:11:16"
-            }
-          ]
         }
       ],
       "country": "philippines"
@@ -161,19 +148,6 @@
               "created_at": "2021-6-14 21:11:16"
             }
           ]
-        },
-        {
-          "id": 15,
-          "barangayName": "san isidro",
-          "schools": [
-            {
-              "schoolId": 202115,
-              "schoolName": "f benitez elementary school",
-              "schoolAddress": "3160 Visita, Makati, 1205 Metro Manila",
-              "vaccineType": "pfizer",
-              "created_at": "2021-6-14 21:11:16"
-            }
-          ]
         }
       ],
       "country": "philippines"
@@ -191,19 +165,6 @@
               "schoolName": "alabang elementary school",
               "schoolAddress": "Mendiola, Alabang, Muntinlupa, 1780 Metro Manila",
               "vaccineType": "moderna",
-              "created_at": "2021-6-14 21:11:16"
-            }
-          ]
-        },
-        {
-          "id": 13,
-          "barangayName": "sucat",
-          "schools": [
-            {
-              "schoolId": 202115,
-              "schoolName": "sucat elementary school",
-              "schoolAddress": "Dir. A. Bunye, Sucat, Muntinlupa, Kalakhang Maynila",
-              "vaccineType": "sputnik",
               "created_at": "2021-6-14 21:11:16"
             }
           ]
